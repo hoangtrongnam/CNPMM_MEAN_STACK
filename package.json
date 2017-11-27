@@ -1,0 +1,30 @@
+{
+  "name": "21092017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/router": "^5.0.1",
+    "angular-local-storage": "^0.7.1",
+    "body-parser": "^1.18.1",
+    "connect-mongo": "^2.0.0",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-session": "^1.15.6",
+    "mongoose": "^4.11.12",
+    "nodemon": "^1.12.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.2.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.5.0"
+  }
+}
